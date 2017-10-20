@@ -1,0 +1,2 @@
+# blog
+Starvecraft blog
